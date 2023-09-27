@@ -1,5 +1,5 @@
 # Welcome! 👋
-  Software engineer with a love for all things tech. This repository is my digital playground where I share my projects and code experiments. I'm constantly seeking new challenges and opportunities to expand my knowledge and skills.
+Software engineer with a love for all things tech. This repository is my digital playground where I share my projects and code experiments. I'm constantly seeking new challenges and opportunities to expand my knowledge and skills.
 ### Languages & Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" width="36" alt="java" style="max-width: 100%;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" width="36" alt="java" style="max-width: 100%;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" width="36" alt="java" style="max-width: 100%;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" width="36" alt="java" style="max-width: 100%;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" width="36" alt="java" style="max-width: 100%;" />
 
